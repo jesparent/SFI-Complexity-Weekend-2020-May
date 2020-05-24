@@ -1,1 +1,5 @@
-# SFI-Complexity-Weekend-2020-May
+# Complexit Weekend - Sante Fe Institute 
+a COVID-19 inspired hackathon
+
+## Team: Misinformation Transmission 
+

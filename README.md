@@ -1,5 +1,5 @@
 # Complexit Weekend - Sante Fe Institute 
-a COVID-19 inspired hackathon
+a COVID-19 inspired hackathon | 2020 May 23-24
 
 ## Team: COVID-19 & Information Transmission 
 Team #2: Misinformation Transmission -  Or How I Learned To Love The Velocity Of Fake News

@@ -1,7 +1,7 @@
 # Complexit Weekend - Sante Fe Institute 
 a COVID-19 inspired hackathon
 
-## Team: Misinformation Transmission 
+## Team: COVID-19 & Information Transmission 
 Team #2: Misinformation Transmission -  Or How I Learned To Love The Velocity Of Fake News
 
 

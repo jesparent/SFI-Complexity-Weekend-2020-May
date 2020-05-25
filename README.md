@@ -17,3 +17,7 @@ Team #2: Misinformation Transmission -  Or How I Learned To Love The Velocity Of
 - Steven (@slambertftw)
 - Terry (@ttrieu)
 - Zac (@zacyap)
+
+
+### Other Resources
+Shared google doc: https://docs.google.com/document/d/16f3YqY4MuWhP3pyyKj8MH2Vu2xyD18Emk4cCDnCLR3s/edit# 
